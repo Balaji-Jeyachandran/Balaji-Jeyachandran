@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balaji-Jeyachandran
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML,CSS,JAVA.
+- 🌱 I have done projects using HTML5,CSS3,Javascript,Bootstrap.
 - 💞️ I’m looking to collaborate on Website development
 - 📫 How to reach me @bmsbalaji80@gmail.com
 
